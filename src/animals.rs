@@ -21,7 +21,7 @@ pub enum Animal {
     Chimpanzee,
     Gorilla,
     Orangutan,
-    Polar Bear,
+    PolarBear,
     Rhino,
     Camel,
     Horse,

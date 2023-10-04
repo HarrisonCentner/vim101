@@ -79,7 +79,7 @@ pub fn animal_to_string(animal : Animal) -> String {
         Animal::Hedgehog => String::from("hedgehog"),
         Animal::Armadillo => String::from("armadillo"),
         Animal::Meerkat => String::from("meerkat"),
-        Animal::Prairie  => String::from("prairie ")Dog,
+        Animal::PrairieDog  => String::from("prairie dog"),
         Animal::Koala => String::from("koala"),
         Animal::Lemur => String::from("lemur"),
         Animal::Tarsier => String::from("tarsier"),
