@@ -1,12 +1,6 @@
 # vim101
 A Tutorial on Vim
 
-## Navigation
-
-
-## Macros
-
-
-
-## Advanced Searching
+## Notes:
+![Vim-Notes](notes.pdf?raw=true "Notes on Vim Commands")
 
